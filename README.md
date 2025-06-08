@@ -1,7 +1,7 @@
 
-# 📊 DataStoryteller AI: Beyond Queries to Insights & Visualizations
+# 📊 DataStory AI: Beyond Queries to Insights & Visualizations
 
-**DataStoryteller AI** is an intelligent data exploration tool that empowers users to interact with their databases using natural language. Built with **Streamlit**, **LangChain**, and **Plotly**, this application not only translates natural language questions into SQL queries but also visualizes the results and generates actionable insights, complete with predictive capabilities. It transforms complex database interactions into intuitive conversations.
+**DataStory AI** is an intelligent data exploration tool that empowers users to interact with their databases using natural language. Built with **Streamlit**, **LangChain**, and **Plotly**, this application not only translates natural language questions into SQL queries but also visualizes the results and generates actionable insights, complete with predictive capabilities. It transforms complex database interactions into intuitive conversations.
 
 ---
 
